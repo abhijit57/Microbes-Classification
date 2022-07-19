@@ -3,6 +3,7 @@ Hackathon conducted by Dphi: https://dphi.tech/challenges/207/overview/about
 
 ## Placed 2nd in the Challenge Leaderboard.
 
+### Best Model: Bagging Meta Estimator with base classifier as XGBoost.
 
 Microbes are tiny living things that are found all around us and are too small to be seen by the naked eye. They live in water, soil, and in the air. The human body is home to millions of these microbes too, also called microorganisms. 
 
